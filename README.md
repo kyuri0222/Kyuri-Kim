@@ -1,6 +1,6 @@
 
 <div>
-  <h1>Hi there 👋  I'm 김규리
+  <h1>Hi there 🖐🏻  I'm Kyuri Kim
     <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyuri0222" alt="Tech Blog Badge">
 </h1>
   <p>
