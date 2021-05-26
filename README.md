@@ -8,9 +8,8 @@
   </p>
 </div>
 
-<div> <h2>😄 
+<div> 👉🏻
   <a href="https://www.notion.so/Kyuri-Kim-ce53e5b5aa9b43c889f38cf6e9007a91">
-  Portfolio 😄 
+  My Portfolio 
   </a>
-    </h2>
 </div>
