@@ -7,3 +7,10 @@
    <img src="https://github-readme-stats.vercel.app/api?username=kyuri0222&show_icons=true" alt="kyuri0222"  width="54%"/>
   </p>
 </div>
+
+<div> <h2>😄 
+  <a href="https://www.notion.so/Kyuri-Kim-ce53e5b5aa9b43c889f38cf6e9007a91">
+  Portfolio 😄 
+  </a>
+    </h2>
+</div>
