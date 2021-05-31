@@ -10,6 +10,6 @@
 
 <div> 👉🏻
   <a href="https://www.notion.so/Kyuri-Kim-ce53e5b5aa9b43c889f38cf6e9007a91">
-  My Portfolio 
+   My Portfolio 
   </a>
 </div>
