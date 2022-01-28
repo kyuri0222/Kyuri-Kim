@@ -1,12 +1,9 @@
 <div>
-  <h1>Hi there🖐🏻  I'm Kyuri Kim.
-</h1>
+  <h1>Hi there🖐🏻  I'm Kyuri Kim.</h1>
 ▪️ &nbsp;프론트엔드 개발자입니다.<br/>
 ▪️ &nbsp;빠른 주기 개발, 특히 애자일 환경에 익숙합니다.<br/>
 ▪️ &nbsp;주어진 일도 재미있고 열정적으로 해내는 편입니다.<br/>
-▪️ &nbsp;다른 사람들이 읽기 편한 문서를 작성하는 것을 선호합니다.<br/>
 ▪️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/Kyuri-Kim-ce53e5b5aa9b43c889f38cf6e9007a91"> 제 포트폴리오</a>를 방문해주세요.
-  
   
 ### 🛠 &nbsp;Technical Skills
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
@@ -22,7 +19,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 <br/>
-
   
 ### 💻 &nbsp;GitHub Analytics
   <p>
