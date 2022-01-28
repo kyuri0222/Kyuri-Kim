@@ -14,5 +14,5 @@
 </div>
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:kuri222@naver.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kuri222@naver.com"><img src="https://img.shields.io/badge/-kuri222@naver.com-E4405F?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kyuriful_"><img src="https://img.shields.io/badge/-@kyuriful__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
