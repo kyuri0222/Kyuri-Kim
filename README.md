@@ -12,3 +12,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=kyuri0222&show_icons=true" alt="kyuri0222"  width="54%"/>
   </p>
 </div>
+
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:kuri222@naver.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/kyuriful_"><img src="https://img.shields.io/badge/-@kyuriful__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
