@@ -25,8 +25,8 @@
     <img src="https://github-readme-stats.always0ne.vercel.app/api/top-langs/?username=kyuri0222&layout=compact&hide=html&langs_count=6" alt="kyuri0222" width="45%" />
    <img src="https://github-readme-stats.vercel.app/api?username=kyuri0222&show_icons=true" alt="kyuri0222"  width="54%"/>
   </p>
-</div>
 
 ### 🤝 &nbsp;Contact
 <a href="mailto:kyuri0222@gmail.com"><img src="https://img.shields.io/badge/-kyuri0222@gmail.com-000000?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/kyuriful_"><img src="https://img.shields.io/badge/-@kyuriful__-000000?style=flat&logo=Instagram&logoColor=white"/></a>
+</div>
