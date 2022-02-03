@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=rstudio)&nbsp;<br/>
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;<br/>
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
