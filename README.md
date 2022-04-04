@@ -1,6 +1,5 @@
 <div>
   <h1>Hi there🖐🏻  I'm Kyuri Kim.</h1>
-▪️ &nbsp;프론트엔드 개발자입니다.<br/>
 ▪️ &nbsp;빠른 주기 개발, 특히 애자일 환경에 익숙합니다.<br/>
 ▪️ &nbsp;주어진 일을 재미있고 열정적으로 해내는 편입니다.<br/>
 ▪️ &nbsp;저에 대해 궁금하시다면, <a href="https://www.notion.so/Kyuri-Kim-6fb513b3c11249cc8507bd1c98805f9f"> 제 포트폴리오</a>를 방문해주세요.
