@@ -2,22 +2,7 @@
   <h1>Hi there🖐🏻  I'm Kyuri Kim.</h1>
 ▪️ &nbsp;빠른 주기 개발, 특히 애자일 환경에 익숙합니다.<br/>
 ▪️ &nbsp;주어진 일을 재미있고 열정적으로 해내는 편입니다.<br/>
-  
-### 🛠 &nbsp;Technical Skills
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;<br/>
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
-<br/>
-  
+ 
 ### 🤝 &nbsp;Contact
 <a href="mailto:kuri222@naver.com"><img src="https://img.shields.io/badge/-kuri222@naver.com-000000?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
