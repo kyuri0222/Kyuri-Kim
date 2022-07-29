@@ -4,7 +4,7 @@
 ▪️ &nbsp;주어진 일을 재미있고 열정적으로 해내는 편입니다.<br/>
  
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:kuri222@naver.com"><img src="https://img.shields.io/badge/-kuri222@naver.com-000000?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kyurikim@lotte.net"><img src="https://img.shields.io/badge/-kuri222@naver.com-000000?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
 ### 💻 &nbsp;GitHub Analytics
