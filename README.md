@@ -1,3 +1,5 @@
-### &nbsp;Contact
-<a href="mailto:kuri222@naver.com"><img src="https://img.shields.io/badge/-kuri222@naver.com-000000?style=flat&logo=Gmail&logoColor=white"/></a>
-</div>
+▪️ &nbsp;Senior / Sales Section<br/>
+▪️ &nbsp;Distribution / Service Div.<br/>
+▪️ &nbsp;System Management Business HQ.<br/>
+
+▪️ &nbsp;Contact : kuri222@naver.com<br/>
