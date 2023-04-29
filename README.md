@@ -1,4 +1,4 @@
-▪️ &nbsp;Senior / Sales Section<br/>
+▪️ &nbsp;Senior <br/>
 ▪️ &nbsp;Distribution / Service Div.<br/>
 ▪️ &nbsp;System Management Business HQ.<br/>
 
