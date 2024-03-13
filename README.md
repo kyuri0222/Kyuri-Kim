@@ -2,4 +2,4 @@
 ▪️ &nbsp;Distribution / Service Div.<br/>
 ▪️ &nbsp;System Management Business HQ.<br/>
 
-▪️ &nbsp;Contact : kuri222@naver.com<br/>
+▪️ &nbsp;Contact : kyurikim@lotte.com<br/>
